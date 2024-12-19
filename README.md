@@ -72,7 +72,4 @@ The room is fetched using the room number, and its availability is checked.
 If available, a Booking object is created, marking the room as unavailable.
 A Payment object is created for the booking.
 Booking and payment details are displayed on the console.
-Output:
 
-Results (booking and payment details or errors) are directly displayed on the console.
-This modular design ensures each class has a single responsibility and can be extended or modified independently. Let me know if you’d like further details on any specific part!
